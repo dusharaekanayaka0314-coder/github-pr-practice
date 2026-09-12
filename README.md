@@ -1,5 +1,5 @@
 # github-pr-practice
-A beginner project for learning Git branches and Pull Requests.
+Learning GitHub Pull Requests.
 ## About This Practice
 
 I am learning how GitHub branches and Pull Requests work.

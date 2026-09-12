@@ -5,3 +5,10 @@ A beginner project for learning Git branches and Pull Requests.
 I am learning how GitHub branches and Pull Requests work.
 
 This repository is created to practice professional Git workflows.
+
+## Skills I Am Learning
+
+- Git
+- GitHub
+- GitHub Pull Requests
+- Branching
